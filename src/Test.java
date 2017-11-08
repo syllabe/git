@@ -11,5 +11,7 @@ public class Test {
 
         System.out.println("Moja zmiana");
         System.out.println("Moja kolejna zmiana");
+        System.out.println("Moja kolejna zmiana Darka");
+
     }
 }
