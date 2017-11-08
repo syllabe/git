@@ -10,5 +10,6 @@ public class Test {
         System.out.println("Nowy wiersz");
 
         System.out.println("Moja zmiana");
+        System.out.println("Moja kolejna zmiana");
     }
 }
