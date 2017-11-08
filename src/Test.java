@@ -8,5 +8,7 @@ public class Test {
 
     public static void newMetod(String string){
         System.out.println("Nowy wiersz");
+
+        System.out.println("Moja zmiana");
     }
 }
